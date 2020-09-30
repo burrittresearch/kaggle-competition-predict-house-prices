@@ -20,4 +20,4 @@ We used a variety of data wrangling and feature engineering techniques to prepar
 [https://github.com/burrittresearch/kaggle-competition-predict-house-prices](https://github.com/burrittresearch/kaggle-competition-predict-house-prices)
 
 ## License
-This project is distributed under the [MIT License](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
+This project is distributed under the [MIT License](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
