@@ -1,17 +1,17 @@
 # Text file for ignoring files and folders
 
-# Ignore jupyterlab checkpoints
+# Ignore directories
 
 .ipynb_checkpoints/
 
 # Ignore file extensions
 
-*.csv
-*.xlsx
-*.docx
-*.pptx
 *.zip
 *.txt
+
+# Ignore files
+
+kaggle-competition-predict-house-prices-notes.txt
 
 
 
