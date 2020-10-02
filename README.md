@@ -9,10 +9,12 @@
 * Employed multiple linear regression to build a model using the training dataset to the predict the SalePrice of houses.
 * Compared actual vs predicted SalePrice using the model. Results were mixed, indicating the model could be improved.
 
+### Notebooks
+
     > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
     > [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
 
-## Wayne Burritt, Burritt Research
+### Wayne Burritt, Burritt Research
 
 > [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
 > [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
@@ -20,5 +22,5 @@
 > [linkedin.com/in/burrittresearch](https://www.linkedin.com/in/burrittresearch 'Burritt Research LinkedIn')  
 > [@burrittresearch](https://twitter.com/burrittresearch/ 'Burritt Research Twitter')
 
-## License
+### License
 This project is distributed under the [MIT License](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
