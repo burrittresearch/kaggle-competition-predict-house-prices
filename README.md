@@ -2,7 +2,7 @@
 
 ## Project: Kaggle Competition Predict House Prices
 
-## Summary
+### Summary
 
 * Provided a solution to the business problem of predicting house prices using the Ames Housing dataset. The solution also served as an entry into the kaggle closed competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 'House Prices: Advanced Regression Techniques').
 * Used a variety of data wrangling and feature engineering techniques to prepare and analyze the datasets. 
@@ -12,10 +12,7 @@
     > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
     > [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
 
-
-
-
-## Contact: Wayne Burritt
+## Wayne Burritt, Burritt Research
 
 > [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com?subject=Info)  
 > [burrittresearch.com](https://burrittresearch.com 'Burritt Research Website')  
