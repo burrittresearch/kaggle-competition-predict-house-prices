@@ -24,7 +24,7 @@
 [github.com/burrittresearch/kaggle-competition-predict-house-prices](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Project')
 
 ### Project Link on Kaggle 
-[www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Project')
+[kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Project')
 
 ## License
 This project is distributed under the [MIT License](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
