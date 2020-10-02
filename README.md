@@ -11,8 +11,8 @@
 
 ### Notebooks
 
-    > [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
-    > [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
+> [Jupyter notebook on GitHub](https://github.com/burrittresearch/kaggle-competition-predict-house-prices/blob/master/kaggle-competition-predict-house-prices.ipynb 'Notebook')  
+> [Jupyter notebook on kaggle](https://www.kaggle.com/jonathanburritt/kaggle-competition-predict-house-prices 'Notebook')
 
 ### Wayne Burritt, Burritt Research
 
