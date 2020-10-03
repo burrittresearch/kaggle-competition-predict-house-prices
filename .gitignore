@@ -6,7 +6,6 @@
 
 # Ignore file extensions
 
-*.zip
 *.txt
 
 # Ignore files
